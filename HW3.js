@@ -3,7 +3,7 @@ const com_num = Math.random();
 let com = ""
 
 if (com_num > 0.6) {
-    com = "보";
+    com = "가위";
 }
 else if (com_num > 0.3) {
     com = "바위";
